@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-hub="registry.cn-hangzhou.aliyuncs.com"
-repo="$hub/chenby"
+hub="registry.cn-shenzhen.aliyuncs.com"
+repo="$hub/winters"
 
 
 if [ -f sync.yaml ]; then
